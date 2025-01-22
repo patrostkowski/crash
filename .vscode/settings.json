@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "wait.h": "c",
+        "signal.h": "c",
+        "unistd.h": "c",
+        "idtype_t.h": "c"
+    }
+}
